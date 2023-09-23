@@ -1,6 +1,11 @@
 # Data Scientist
 [LinkedIn](https://www.linkedin.com/in/digvijay-yadav-data-science/)
 
+### About Me
+I am a graduate student majoring in the Quantitative Biomedical Sciences program at Dartmouth College, with a focus on Data Science, I have a strong background in both biomedical engineering and data analysis. My interest in data science was sparked during my junior year of college and has since been further developed through online courses and projects. My experience as a technical writer at Analytics Vidhya, Medium, and my work as a Computer Vision Engineer at Visionify, where I focused on developing object detection models for edge devices and deploying them to the cloud platform, have provided me with practical skills in machine learning and deep learning.
+
+I have around 4 years of programming experience with Python and through my coursework, I have an implementation understanding of programming languages like R, and SQL. I am interested in Statistical analysis and interpretation of data, and this interest led me to participate in the Case Competition organized by the University of South Carolina. I secured 2nd position amongst 34 teams all over the United States for the Identification of Breast Cancer using Unsupervised learning on the Genetic Expression dataset.
+
 ### Education
 Data Science, MS at Dartmouth College
 
