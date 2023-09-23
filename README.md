@@ -1,4 +1,4 @@
-# Data Scientist
+# Digvijay Yadav
 
 ### Education
 Data Science, MS
