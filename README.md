@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### Education
-Data Science, MS
+Data Science, MS at Dartmouth College
 
 ### Work Experience
 Data Scientist at Schaeffler (June 2023 -- September 2023)
